@@ -1,2 +1,2 @@
 # About
-PlulongGames is a game development company started on 2022 with the game MaccaroniCastle on QBasic.
+PlulongGames is a software development company started on September 2022 with the game MaccaroniCastle on QBasic.
